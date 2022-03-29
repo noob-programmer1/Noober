@@ -2,8 +2,7 @@
 
 <p align="center">
 <img alt="Version" src="https://img.shields.io/badge/version-1.20.0-green.svg?style=flat-square" />
-<a href="https://travis-ci.org/kasketis/netfox"><img alt="CI Status" src="http://img.shields.io/travis/kasketis/netfox.svg?style=flat-square" /></a>
-<a href="https://cocoapods.org/pods/Noober"><img alt="Cocoapods Compatible" src="https://img.shields.io/cocoapods/v/netfox.svg?style=flat-square" /></a>
+<a href="https://cocoapods.org/pods/Noober"><img alt="Cocoapods Compatible" src="https://img.shields.io/cocoapods/p/Noober?style=flat-square" /></a>
 <a href="https://opensource.org/licenses/MIT"><img alt="License" src="https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square" /></a>
 </p>
 
@@ -40,7 +39,7 @@ pod 'Noober', :configurations => ['Debug', 'Test']
 
 If you prefer not to use dependency managers, you can integrate Noober into your project manually.
 
-You can do it by copying the "netfox" folder in your project (make sure that "Create groups" option is selected)
+You can do it by copying the "Noober" folder in your project (make sure that "Create groups" option is selected)
 
 ## Start
 
@@ -66,7 +65,7 @@ You can add the DEBUG symbol with the -DDEBUG entry. Set it in the "Swift Compil
 
 Just shake your device and check what's going right or wrong! 
 Shake again and go back to your app!
-![](https://raw.githubusercontent.com/kasketis/netfox/master/assets/shake.png)
+
 
 ## Stop
 
