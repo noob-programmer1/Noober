@@ -106,7 +106,7 @@ Use the following method to mock response for specified URL . You can mock as ma
 	- Request url: github.com, .gr, or whatever you want
 	- Request method: GET, POST, etc
 
-- Sharing: Log tap to copy response, request or anything you want!
+- Sharing: Long tap to copy response, request or anything you want!
 - Enable/disable logging within the app
 - More to come.. ;)
 
