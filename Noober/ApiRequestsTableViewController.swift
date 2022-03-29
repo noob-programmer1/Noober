@@ -62,7 +62,7 @@ class ApiRequestsTableViewController: UIViewController {
 
     private func initTabController(model: HTTPRequestModel) {
         let  apiRequestVC = ApiRequestViewController(model: model, type: .request)
-        apiRequestVC.tabBarItem = .init(title: "Request", image: UIImage.apiResponseUnselectedImage, selectedImage: UIImage.apiRequestselectedImage)
+        apiRequestVC.tabBarItem = .init(title: "Request", image: UIImage.apiRequestUnselectedImage, selectedImage: UIImage.apiRequestselectedImage)
 
        let apiResponseVC = ApiRequestViewController(model: model, type: .response)
         apiResponseVC.tabBarItem = .init(title: "Response", image: UIImage.apiResponseUnselectedImage, selectedImage: UIImage.apiResponseSelectedImage )
