@@ -14,7 +14,7 @@ Very useful and handy for network related issues and bugs
 Supports Swift 5 and above
 
 ### Overview
-| ![](https://github.com/ABHI165/Noober/blob/main/assets/intercept.gif)  | ![]((https://github.com/ABHI165/Noober/blob/main/assets/apiCalls.gif) |
+| ![](https://github.com/ABHI165/Noober/blob/main/assets/intercept.gif)  | ![](https://github.com/ABHI165/Noober/blob/main/assets/apiCalls.gif) |
 |---|---|
 
 ## Installation
