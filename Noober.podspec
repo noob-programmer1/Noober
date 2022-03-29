@@ -3,7 +3,7 @@ Pod::Spec.new do |spec|
 
 
   spec.name         = "Noober"
-  spec.version      = "0.0.1"
+  spec.version      = "0.1.0"
   spec.summary      = "A network debugger library for ios"
   spec.description  = " Noober is a lightweight network debugger library that itercepts api and and log it"
 
@@ -13,6 +13,7 @@ Pod::Spec.new do |spec|
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
   spec.license      = "MIT"
+  spec.ios.deployment_target = '11.0'
 
 
   spec.author             = { "Abhishek Agarwal" => "abhiagarwal16052000@gmail.com" }
